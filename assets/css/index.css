@@ -1,7 +1,7 @@
 /* global */
-
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
 body {
-  font-family: "Bree Serif", sans-serif;
+  font-family: "Cabin", sans-serif;
   -webkit-font-smoothing: antialiased;
   margin: 0 20px;
 }
@@ -81,7 +81,7 @@ a:hover {
   font-size: 2rem;
   font-weight: bold;
   margin-top: 32px;
-  font-family: "Bungee Shade", sans-serif;
+  font-family: "Cabin", sans-serif;
 }
 .header-title a {
   text-decoration: none;

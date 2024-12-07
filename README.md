@@ -33,10 +33,10 @@ theme = "yinyang"
 
 ### Head Title
 
-```
+
 [params]
-headTitle = "Joway Wang"
-```
+headTitle = "How To Be Free"
+
 
 If there is no `headTitle` in params, use `.Site.Author.name`.
 
